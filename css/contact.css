@@ -1,0 +1,57 @@
+html,body{
+    scroll-behavior: smooth;
+}
+
+#title {
+  background-color: #112D4E;
+  font-family: 'Mulish', sans-serif;
+  padding: 0 5%;
+}
+.container-fluid {
+  padding: 0 5% 3%;
+}
+.brand-img {
+  height: 75%;
+  width: 75%;
+}
+main{
+  background-color: #DBE2EF;
+  padding-bottom: 2%;
+  font-family: 'Mulish', sans-serif;
+}
+.main-heading{
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+.subheading{
+  font-weight: 900;
+  font-size: 2rem;
+}
+
+#footer {
+  background-color: #112D4E;
+  font-family: 'Mulish', sans-serif;
+  color: #F9F7F7;
+  padding: 3% 5% 0;
+  overflow: hidden;
+}
+
+.footer-link {
+  color: #F9F7F7;
+}
+
+.footer-link:hover {
+  color: #FFFFFF;
+}
+
+.copyright {
+  text-align: center;
+  background: #252d30;
+  color: #FFF;
+  padding: 6px 0;
+  font-weight: 100;
+  letter-spacing: 0.5px;
+  font-size: 11px;
+  width: 100%;
+  margin: 0;
+}
